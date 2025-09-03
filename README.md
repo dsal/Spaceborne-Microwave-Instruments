@@ -43,5 +43,8 @@ HH – HV (or ratio HH/HV): Useful for distinguishing bare soil / water (strong 
 The plots are usually intensity maps or scatter plots: Intensity maps (grayscale or RGB composites):
 Each polarization (HH, VV, HV) is shown as an image. Bright = strong backscatter.
 
-Pauli or Freeman–Durden decomposition plots: Combine different polarizations into RGB false-color images to highlight scattering mechanisms. Example: Red = double-bounce (VV–HH), Green = volume (HV), Blue = surface (HH+VV)
+Pauli or Freeman–Durden decomposition plots: Combine different polarizations into RGB false-color images to highlight scattering mechanisms.
+
+Example: Red = double-bounce (VV–HH), Green = volume (HV), Blue = surface (HH+VV)
+
 Scatter plots (e.g., VV vs VH power): Show clusters for different land cover types (urban, vegetation, water).
